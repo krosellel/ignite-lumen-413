@@ -1,0 +1,9 @@
+{
+    "name": "hopuqigid",
+    "version": "91.37.145",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "puppeteer-core": "^23.0.0"
+    }
+}
